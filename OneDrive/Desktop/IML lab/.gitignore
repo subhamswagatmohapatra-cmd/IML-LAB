@@ -1,0 +1,11 @@
+# Ignore everything at parent level
+../*
+../../*
+../../../*
+
+# Keep this folder's files
+!.gitignore
+!*.py
+!*.ipynb
+!.git/
+!README.md
